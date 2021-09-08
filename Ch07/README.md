@@ -1,1 +1,1 @@
-# online profile card page
+# 7장 온라인 프로필 카드 제작하기
